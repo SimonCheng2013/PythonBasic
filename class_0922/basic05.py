@@ -22,3 +22,4 @@ print(os.path.exists(os.getcwd()))
 print(os.listdir(os.getcwd()))
 
 print(os.listdir(os.getcwd())) #罗列所有文件和目录 以列表格式
+
